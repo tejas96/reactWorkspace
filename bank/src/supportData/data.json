@@ -1,0 +1,11 @@
+{
+    "bodyPage":{
+        "heading":{
+            "selectOpt1":["mumbai", "chennai", "kolkata", "delhi", "pune"],
+            "selectOpt2":[ "ifsc", "branch", "bank name"]
+        },
+        "footer":{
+            "rowPerPage":[0,10,20,30,40,60,80]
+        }
+    }
+}

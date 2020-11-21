@@ -1,0 +1,77 @@
+.headerToolKit{
+    width: 60%;
+}
+.filterSelect{
+    border: none;
+    border-bottom: 1px solid gray;
+    width: 70%;
+    outline-style: none;
+    float: left;
+    font-size: 12px;
+}
+.filterInput{
+    border: none;
+    border-bottom: 1px solid gray;
+    width: 100%;
+    outline-style: none;
+    float: right;
+    font-size: 12px;
+}
+.filter1{
+    width: 30%;
+}
+.filter2{
+    width: 30%;
+}
+
+thead tr{
+    color: gray;
+    font-size: 13px;
+}
+
+table thead tr th{
+    border-top: none!important;
+}
+table{
+    font-size: 12px;
+}
+table td{
+    vertical-align: middle;
+}
+.rowFilter{
+    border: none;
+    outline-style: none;
+    font-size: 12px;
+}
+.pagination{
+    margin-left: auto;
+    width: auto;
+    text-align: right;
+}
+
+.arrowButton, .pageRange{
+   font-size: 12px;
+   text-align: right;
+   
+}
+.arrowButton{
+    border: none;
+    background: none;
+    font-weight: bolder;
+    outline:none;
+    font-size: 15px;
+    cursor: pointer;
+}
+.pageRange{
+    margin:0 10px 0 10px;
+}
+.paginationFilter{
+    margin-left: auto;
+}
+.bankBody{
+    overflow-y: auto;
+    max-height: 450px;
+}
+.goldenStar{
+    color: goldenrod;
+}

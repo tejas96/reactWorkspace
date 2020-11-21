@@ -1,0 +1,18 @@
+.sidenav{
+    height: 100vh;
+}
+
+.option-list{
+    padding-top: 70px;
+    background-color:hsl(167, 70%, 46%);
+    list-style: none;
+}
+.option-list::after {
+    content:"" ;
+}
+
+@media only screen and (max-width:780px){
+    .sidenav{
+        height: auto;
+    }
+}

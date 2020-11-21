@@ -1,0 +1,9 @@
+.container2{
+    vertical-align: top;
+}
+
+@media only screen and (max-width:780px){
+    .mainHeader{
+        display:none;
+    }
+}
