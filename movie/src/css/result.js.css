@@ -1,0 +1,13 @@
+.img-height{
+    height:300px;
+    width: 100%;
+    cursor: pointer;
+}
+.movie:hover .movie-detail{
+    transition: all 0.2s linear;
+    color: black!important;
+    background-color:rgba(255, 255,255,0.9);
+}    
+.movie-detail{
+    background-color:rgb(40, 44, 52);
+}
